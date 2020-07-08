@@ -12,8 +12,8 @@ You will find in this repository the **attacks** and **[cryptanalyses](https://e
 | ------ | ------ | :------: | :------: | :------: | :------: |
 | [RSA Cryptanalysis](https://github.com/Chahi-Rabie-Ala-Eddine/Timing-Attack-On-Smart-Cards) | RSA-2048 & Fewer | Side Channel Attack (Timing Attack) | C++ | 2 mounths | :white_check_mark: |
 | [DES Cryptanalysis](https://github.com/Chahi-Rabie-Ala-Eddine/Differential-Fault-Analysis-Attack-On-DES) | Data Encryption Standard | Differential fault analysis | C++ | 3 weeks | :white_check_mark: |
-| [Cesar Cryptanalysis](https://github.com/Chahi-Rabie-Ala-Eddine/Cryptopher) | Cesar | Statistical analysis | C++ | 1 mounths | :white_check_mark: |
-| [Vigenre Cryptanalysis](https://github.com/Chahi-Rabie-Ala-Eddine/Cryptopher) | Vigenere | Probabilistic analysis | C++ | 1 mounths | :white_check_mark: |
+| [Cesar Cryptanalysis](https://github.com/Chahi-Rabie-Ala-Eddine/Cryptopher) | Cesar | Statistical analysis | C++ | ~1 mounth | :white_check_mark: |
+| [Vigenre Cryptanalysis](https://github.com/Chahi-Rabie-Ala-Eddine/Cryptopher) | Vigenere | Probabilistic analysis | C++ | ~1 mounth | :white_check_mark: |
 
 ## License & copyright
 
