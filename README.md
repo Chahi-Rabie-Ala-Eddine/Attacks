@@ -4,7 +4,7 @@
 
 ### Description 
 
-You will find in this repository the **attacks** and **[cryptanalyses](https://en.wikipedia.org/wiki/Cryptanalysis)** that i implemented on different cryptographic algorithms
+You will find in this repository the **attacks** and **[cryptanalyses](https://en.wikipedia.org/wiki/Cryptanalysis)** that i implemented on different cryptographic algorithms.
 
 ### Contents 
 
